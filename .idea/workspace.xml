@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="81c7287d-e2a9-46d0-a31e-4adda514381e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/configure-cacert-for-local-macosx.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/images/cacert-1-warning.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/images/cacert-2-open-keychain.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/images/cacert-3-add-cacert-file-import.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/images/cacert-4-locate-cert.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/images/cacert-5-set-to-always-trust.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/images/cacert-6-reload-page.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/images/ps-mac-php-cli-add-interpreter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/images/ps-mac-php-interpreter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/images/ps-mac-php-phpunit-config.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/images/ps-mac-php-phpunit-demo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/images/ps-mac-php-phpunit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/images/ps-mac-php-xdebug-demo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/images/ps-mac-php-xdebug-proxy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/images/ps-mac-php-xdebug-server.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/images/ps-mac-php-xdebug.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/phpstorm-macosx.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/etc/nginx/conf.d/www.conf" beforeDir="false" afterPath="$PROJECT_DIR$/etc/nginx/conf.d/www.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/NewYichenApp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Yy3B3xDeDcw3FGZgxZZwIH6vEw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/etc/nginx" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="docker-compose.yml.web: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="web" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.docker-compose.yml.web: Compose Deployment" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="81c7287d-e2a9-46d0-a31e-4adda514381e" name="Default Changelist" comment="" />
+      <created>1583900868065</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583900868065</updated>
+      <workItem from="1583900869742" duration="5103000" />
+      <workItem from="1583913284231" duration="12000" />
+      <workItem from="1583913349104" duration="7333000" />
+      <workItem from="1583929901694" duration="5866000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="669" y="245" key="#docker-compose.yml.web:_Compose_Deployment" timestamp="1583918068610">
+      <screen x="0" y="23" width="1920" height="988" />
+    </state>
+    <state x="669" y="245" key="#docker-compose.yml.web:_Compose_Deployment/0.23.1920.988@0.23.1920.988" timestamp="1583918068610" />
+  </component>
+</project>
