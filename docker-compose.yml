@@ -1,0 +1,39 @@
+version: '3'
+
+services:
+  web:
+    image: nginx
+    container_name: nginx
+    volumes:
+      - ./etc/nginx/nginx.conf:/etc/nginx/nginx.conf
+      - ./etc/nginx/conf.d:/etc/nginx/conf.d
+      - ./web:/var/www
+      - ./etc/nginx/logs:/var/log/nginx/
+    ports:
+      - "80:80"
+    restart: always
+    environment:
+      TZ: 'Asia/Shanghai'
+    depends_on:
+      - php
+#      - mysqldb
+  php:
+    image: nanoninja/php-fpm:${PHP_VERSION}
+    container_name: php-fpm${PHP_VERSION}
+    restart: always
+    volumes:
+      - "./etc/php/php.ini:/usr/local/etc/php/conf.d/php.ini"
+      - "./web/:/var/www"
+#  mysqldb:
+#    image: mysql:${MYSQL_VERSION} cbbnhv hgt
+#    container_name: ${MYSQL_HOST}yic
+#    restart: always
+#    env_file:
+#      - ".env"
+#    environment:
+#      - MYSQL_DATABASE=${MYSQL_DATABASE}
+#      - MYSQL_ROOT_PASSWORD=${MYSQL_ROOT_PASSWORD}
+#    ports:
+#      - "3306:3306"
+#    volumes:
+#      - "./data/db/mysql:/var/lib/mysql"
