@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81c7287d-e2a9-46d0-a31e-4adda514381e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +75,7 @@
       <workItem from="1583900869742" duration="5103000" />
       <workItem from="1583913284231" duration="12000" />
       <workItem from="1583913349104" duration="7333000" />
-      <workItem from="1583929901694" duration="6096000" />
+      <workItem from="1583929901694" duration="6153000" />
     </task>
     <servers />
   </component>
