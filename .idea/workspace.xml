@@ -2,30 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81c7287d-e2a9-46d0-a31e-4adda514381e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/configure-cacert-for-local-macosx.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/images/cacert-1-warning.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/images/cacert-2-open-keychain.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/images/cacert-3-add-cacert-file-import.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/images/cacert-4-locate-cert.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/images/cacert-5-set-to-always-trust.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/images/cacert-6-reload-page.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/images/ps-mac-php-cli-add-interpreter.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/images/ps-mac-php-interpreter.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/images/ps-mac-php-phpunit-config.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/images/ps-mac-php-phpunit-demo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/images/ps-mac-php-phpunit.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/images/ps-mac-php-xdebug-demo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/images/ps-mac-php-xdebug-proxy.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/images/ps-mac-php-xdebug-server.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/images/ps-mac-php-xdebug.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/phpstorm-macosx.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/etc/nginx/conf.d/www.conf" beforeDir="false" afterPath="$PROJECT_DIR$/etc/nginx/conf.d/www.conf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/NewYichenApp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +75,7 @@
       <workItem from="1583900869742" duration="5103000" />
       <workItem from="1583913284231" duration="12000" />
       <workItem from="1583913349104" duration="7333000" />
-      <workItem from="1583929901694" duration="5866000" />
+      <workItem from="1583929901694" duration="6096000" />
     </task>
     <servers />
   </component>
